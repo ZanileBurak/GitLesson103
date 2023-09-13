@@ -28,5 +28,5 @@
 - The original push command goes like this: "**git push origin "name of the branch"**
   What we have to do here is that to put the name of the new branch inside the double quotes.
   **git push origin newbranch** This command helps you to push the new branch to the repo.
--Ignore any files with the .log extension  
--Ignore everything in any directory named temp  
+- Ignore any files with the .log extension  
+- Ignore everything in any directory named temp  
